@@ -5,8 +5,8 @@ firmware used: NodeMCU
 module:esp-2e
 
 this file contain 3 file
-init.lua
-default_ap.lua
+init.lua, 
+default_ap.lua,
 new_ap.lua
 
 init.lua file checks the counter.txt file and redirect the to the AccessPoint access
