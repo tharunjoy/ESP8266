@@ -1,4 +1,4 @@
-# ESP8266
+# ESP8266 change SSID and password from webpage
 # Change default ssid and password to custom ssid and password using a mobile in first connect
 
 firmware used: NodeMCU
